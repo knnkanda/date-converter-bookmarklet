@@ -113,3 +113,12 @@ javascript:(function(){function convertDate(text){const today=new Date();let res
 ---
 
 ⭐ このプロジェクトが役に立った場合は、スターをつけてください！
+
+
+## 🛠️ 開発者向け
+
+このリポジトリには開発者向けのセットアップスクリプトが含まれています：
+
+- **setup_git.sh**: ローカルGitリポジトリの初期化スクリプト
+
+- 
